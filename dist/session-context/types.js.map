@@ -1,0 +1,1 @@
+{"version":3,"file":"types.js","sourceRoot":"","sources":["../../src/session-context/types.ts"],"names":[],"mappings":"AAMA,MAAM,CAAC,MAAM,qBAAqB,GAAG;IACnC,MAAM,EAAE,QAAQ;IAChB,SAAS,EAAE,WAAW;IACtB,OAAO,EAAE,SAAS;CACV,CAAA;AAEV,MAAM,CAAC,MAAM,mBAAmB,GAAG;IACjC,MAAM,EAAE,QAAQ;IAChB,OAAO,EAAE,SAAS;IAClB,OAAO,EAAE,SAAS;IAClB,SAAS,EAAE,WAAW;CACd,CAAA"}
