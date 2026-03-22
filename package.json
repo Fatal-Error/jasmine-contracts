@@ -1,6 +1,6 @@
 {
   "name": "@fatal-error/jasmine-contracts",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Shared runtime contract for Jasmine Workspace and Jasmine Control Plane.",
   "private": false,
   "type": "module",
