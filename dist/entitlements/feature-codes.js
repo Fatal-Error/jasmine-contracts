@@ -3,6 +3,7 @@ export const FEATURE_CODES = {
     sprintPlanningAdvanced: 'sprint.planning.advanced',
     sprintIntelligenceCore: 'sprint.intelligence.core',
     sprintIntelligenceAdvanced: 'sprint.intelligence.advanced',
+    backlogRefinement: "backlog.refinement",
     dashboardMultiTeam: 'dashboard.multi_team',
     reportsBasic: 'reports.basic',
     reportsExport: 'reports.export',
