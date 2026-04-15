@@ -7,6 +7,7 @@ export const LIMIT_CODES = {
   aiRequestsMonthly: 'ai.requests.monthly',
   reportsExportsMonthly: 'reports.exports.monthly',
   teamsMax: 'teams.max',
+  chatArchivedReviewableMax: 'chat.archived.reviewable.max',
   chatHistoryRetentionDays: 'chat.history.retention.days'
 } as const satisfies Record<string, LimitCode>
 
