@@ -5,6 +5,7 @@ export const LIMIT_CODES = {
     aiRequestsMonthly: 'ai.requests.monthly',
     reportsExportsMonthly: 'reports.exports.monthly',
     teamsMax: 'teams.max',
+    chatArchivedReviewableMax: 'chat.archived.reviewable.max',
     chatHistoryRetentionDays: 'chat.history.retention.days'
 };
 export const ALL_LIMIT_CODES = Object.freeze(Object.values(LIMIT_CODES));
